@@ -3,7 +3,7 @@
 ## 如何安装？
 
 ```
-npm install code-simple-vue-cli
+npm install code-simple-vue-cli -g
 ```
 
 ## 创建项目
